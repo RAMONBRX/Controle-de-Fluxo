@@ -1,8 +1,3 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 # Projeto Contador
 
 Este projeto em Java implementa um programa simples de contagem que recebe dois números como entrada e exibe uma sequência de números, de acordo com a diferença entre os valores informados. Ele também valida as entradas e lança uma exceção personalizada caso o segundo parâmetro não seja maior que o primeiro.
